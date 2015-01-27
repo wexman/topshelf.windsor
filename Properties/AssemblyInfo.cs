@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die mit einer Assembly verknüpft sind.
 [assembly: AssemblyTitle("Topshelf.Windsor")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Provides extensions to construct your service class from your Castle Windsor IoC container.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Jens Weiermann")]
 [assembly: AssemblyProduct("Topshelf.Windsor")]
