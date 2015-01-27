@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Topshelf.Windsor")]
 [assembly: AssemblyDescription("Provides extensions to construct your service class from your Castle Windsor IoC container.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Jens Weiermann")]
+[assembly: AssemblyCompany("Gustav Wilms OHG")]
 [assembly: AssemblyProduct("Topshelf.Windsor")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Sie können alle Werte angeben oder die standardmäßigen Build- und Revisionsnummern 
 // übernehmen, indem Sie "*" eingeben:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1.0")]
+[assembly: AssemblyFileVersion("1.0.1.0")]
